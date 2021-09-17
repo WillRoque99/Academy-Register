@@ -1,0 +1,99 @@
+﻿"CFB_acabdemia.exe" (CLR v4.0.30319: DefaultDomain): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"CFB_acabdemia.exe" (CLR v4.0.30319: DefaultDomain): Carregado "C:\Users\Borsa\Documents\C#\CFB_acabdemia\bin\Debug\CFB_acabdemia.exe". Símbolos carregados.
+"CFB_acabdemia.exe" (CLR v4.0.30319: CFB_acabdemia.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"CFB_acabdemia.exe" (CLR v4.0.30319: CFB_acabdemia.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"CFB_acabdemia.exe" (CLR v4.0.30319: CFB_acabdemia.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"CFB_acabdemia.exe" (CLR v4.0.30319: CFB_acabdemia.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"CFB_acabdemia.exe" (CLR v4.0.30319: CFB_acabdemia.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"CFB_acabdemia.exe" (CLR v4.0.30319: CFB_acabdemia.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"CFB_acabdemia.exe" (CLR v4.0.30319: CFB_acabdemia.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"CFB_acabdemia.exe" (CLR v4.0.30319: CFB_acabdemia.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Data.DataSetExtensions\v4.0_4.0.0.0__b77a5c561934e089\System.Data.DataSetExtensions.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"CFB_acabdemia.exe" (CLR v4.0.30319: CFB_acabdemia.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Data.resources\v4.0_4.0.0.0_pt-BR_b77a5c561934e089\System.Data.resources.dll". O módulo foi criado sem símbolos.
+"CFB_acabdemia.exe" (CLR v4.0.30319: CFB_acabdemia.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_32\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"CFB_acabdemia.exe" (CLR v4.0.30319: CFB_acabdemia.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"CFB_acabdemia.exe" (CLR v4.0.30319: CFB_acabdemia.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.Wrapper.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"CFB_acabdemia.exe" (CLR v4.0.30319: CFB_acabdemia.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Caching\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.Caching.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"CFB_acabdemia.exe" (CLR v4.0.30319: CFB_acabdemia.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Numerics\v4.0_4.0.0.0__b77a5c561934e089\System.Numerics.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"CFB_acabdemia.exe" (CLR v4.0.30319: CFB_acabdemia.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_pt-BR_b77a5c561934e089\mscorlib.resources.dll". O módulo foi criado sem símbolos.
+"CFB_acabdemia.exe" (CLR v4.0.30319: CFB_acabdemia.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms.resources\v4.0_4.0.0.0_pt-BR_b77a5c561934e089\System.Windows.Forms.resources.dll". O módulo foi criado sem símbolos.
+Exceção gerada: 'System.Data.SqlClient.SqlException' em System.Data.dll
+Exceção gerada: 'System.Data.SqlClient.SqlException' em CFB_acabdemia.exe
+"CFB_acabdemia.exe" (CLR v4.0.30319: CFB_acabdemia.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Transactions.resources\v4.0_4.0.0.0_pt-BR_b77a5c561934e089\System.Transactions.resources.dll". O módulo foi criado sem símbolos.
+System.Transactions Critical: 0 : <TraceRecord xmlns="http://schemas.microsoft.com/2004/10/E2ETraceEvent/TraceRecord" Severity="Critical"><TraceIdentifier>http://msdn.microsoft.com/TraceCodes/System/ActivityTracing/2004/07/Reliability/Exception/Unhandled</TraceIdentifier><Description>Exceção não tratada</Description><AppDomain>CFB_acabdemia.exe</AppDomain><Exception><ExceptionType>System.Data.SqlClient.SqlException, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</ExceptionType><Message>Uma expressão de tipo não booleano especificada em um contexto no qual se espera uma condição, próximo a 'N_idhorario1'.</Message><StackTrace>   em CFB_acabdemia.Banco.Consulta(String sql) na C:\Users\Borsa\Documents\C#\CFB_acabdemia\Banco.cs:linha 75
+   em CFB_acabdemia.F_Horarios.Dgv_Horario_SelectionChanged(Object sender, EventArgs e) na C:\Users\Borsa\Documents\C#\CFB_acabdemia\F_Horarios.cs:linha 50
+   em System.Windows.Forms.DataGridView.OnSelectionChanged(EventArgs e)
+   em System.Windows.Forms.DataGridView.FlushSelectionChanged()
+   em System.Windows.Forms.DataGridView.ClearSelection(Int32 columnIndexException, Int32 rowIndexException, Boolean selectExceptionElement)
+   em System.Windows.Forms.DataGridView.SetAndSelectCurrentCellAddress(Int32 columnIndex, Int32 rowIndex, Boolean setAnchorCellAddress, Boolean validateCurrentCell, Boolean throughMouseClick, Boolean clearSelection, Boolean forceCurrentCellSelection)
+   em System.Windows.Forms.DataGridView.MakeFirstDisplayedCellCurrentCell(Boolean includeNewRow)
+   em System.Windows.Forms.DataGridView.OnRowCollectionChanged_PostNotification(Boolean recreateNewRow, Boolean allowSettingCurrentCell, CollectionChangeAction cca, DataGridViewRow dataGridViewRow, Int32 rowIndex)
+   em System.Windows.Forms.DataGridViewRowCollection.OnCollectionChanged_PostNotification(CollectionChangeAction cca, Int32 rowIndex, Int32 rowCount, DataGridViewRow dataGridViewRow, Boolean changeIsDeletion, Boolean changeIsInsertion, Boolean recreateNewRow, Point newCurrentCell)
+   em System.Windows.Forms.DataGridViewRowCollection.OnCollectionChanged(CollectionChangeEventArgs e, Int32 rowIndex, Int32 rowCount)
+   em System.Windows.Forms.DataGridViewRowCollection.AddInternal(DataGridViewRow dataGridViewRow)
+   em System.Windows.Forms.DataGridView.RefreshRows(Boolean scrollIntoView)
+   em System.Windows.Forms.DataGridView.RefreshColumnsAndRows()
+   em System.Windows.Forms.DataGridView.OnBindingContextChanged(EventArgs e)
+   em System.Windows.Forms.Control.OnParentBindingContextChanged(EventArgs e)
+   em System.Windows.Forms.Control.OnBindingContextChanged(EventArgs e)
+   em System.Windows.Forms.Control.set_BindingContextInternal(BindingContext value)
+   em System.Windows.Forms.ContainerControl.set_BindingContext(BindingContext value)
+   em System.Windows.Forms.ContainerControl.get_BindingContext()
+   em System.Windows.Forms.Control.get_BindingContextInternal()
+   em System.Windows.Forms.Control.get_BindingContext()
+   em System.Windows.Forms.DataGridView.DataGridViewDataConnection.SetDataConnection(Object dataSource, String dataMember)
+   em System.Windows.Forms.DataGridView.set_DataSource(Object value)
+   em CFB_acabdemia.F_Horarios.F_Horarios_Load(Object sender, EventArgs e) na C:\Users\Borsa\Documents\C#\CFB_acabdemia\F_Horarios.cs:linha 28
+   em System.Windows.Forms.Form.OnLoad(EventArgs e)
+   em System.Windows.Forms.Form.OnCreateControl()
+   em System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   em System.Windows.Forms.Control.CreateControl()
+   em System.Windows.Forms.Control.WmShowWindow(Message&amp;amp; m)
+   em System.Windows.Forms.Control.WndProc(Message&amp;amp; m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message&amp;amp; m)
+   em System.Windows.Forms.Form.WmShowWindow(Message&amp;amp; m)
+   em System.Windows.Forms.Form.WndProc(Message&amp;amp; m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message&amp;amp; m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message&amp;amp; m)
+   em System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)</StackTrace><ExceptionString>System.Data.SqlClient.SqlException (0x80131904): Uma expressão de tipo não booleano especificada em um contexto no qual se espera uma condição, próximo a 'N_idhorario1'.
+   em CFB_acabdemia.Banco.Consulta(String sql) na C:\Users\Borsa\Documents\C#\CFB_acabdemia\Banco.cs:linha 75
+   em CFB_acabdemia.F_Horarios.Dgv_Horario_SelectionChanged(Object sender, EventArgs e) na C:\Users\Borsa\Documents\C#\CFB_acabdemia\F_Horarios.cs:linha 50
+   em System.Windows.Forms.DataGridView.OnSelectionChanged(EventArgs e)
+   em System.Windows.Forms.DataGridView.FlushSelectionChanged()
+   em System.Windows.Forms.DataGridView.ClearSelection(Int32 columnIndexException, Int32 rowIndexException, Boolean selectExceptionElement)
+   em System.Windows.Forms.DataGridView.SetAndSelectCurrentCellAddress(Int32 columnIndex, Int32 rowIndex, Boolean setAnchorCellAddress, Boolean validateCurrentCell, Boolean throughMouseClick, Boolean clearSelection, Boolean forceCurrentCellSelection)
+   em System.Windows.Forms.DataGridView.MakeFirstDisplayedCellCurrentCell(Boolean includeNewRow)
+   em System.Windows.Forms.DataGridView.OnRowCollectionChanged_PostNotification(Boolean recreateNewRow, Boolean allowSettingCurrentCell, CollectionChangeAction cca, DataGridViewRow dataGridViewRow, Int32 rowIndex)
+   em System.Windows.Forms.DataGridViewRowCollection.OnCollectionChanged_PostNotification(CollectionChangeAction cca, Int32 rowIndex, Int32 rowCount, DataGridViewRow dataGridViewRow, Boolean changeIsDeletion, Boolean changeIsInsertion, Boolean recreateNewRow, Point newCurrentCell)
+   em System.Windows.Forms.DataGridViewRowCollection.OnCollectionChanged(CollectionChangeEventArgs e, Int32 rowIndex, Int32 rowCount)
+   em System.Windows.Forms.DataGridViewRowCollection.AddInternal(DataGridViewRow dataGridViewRow)
+   em System.Windows.Forms.DataGridView.RefreshRows(Boolean scrollIntoView)
+   em System.Windows.Forms.DataGridView.RefreshColumnsAndRows()
+   em System.Windows.Forms.DataGridView.OnBindingContextChanged(EventArgs e)
+   em System.Windows.Forms.Control.OnParentBindingContextChanged(EventArgs e)
+   em System.Windows.Forms.Control.OnBindingContextChanged(EventArgs e)
+   em System.Windows.Forms.Control.set_BindingContextInternal(BindingContext value)
+   em System.Windows.Forms.ContainerControl.set_BindingContext(BindingContext value)
+   em System.Windows.Forms.ContainerControl.get_BindingContext()
+   em System.Windows.Forms.Control.get_BindingContextInternal()
+   em System.Windows.Forms.Control.get_BindingContext()
+   em System.Windows.Forms.DataGridView.DataGridViewDataConnection.SetDataConnection(Object dataSource, String dataMember)
+   em System.Windows.Forms.DataGridView.set_DataSource(Object value)
+   em CFB_acabdemia.F_Horarios.F_Horarios_Load(Object sender, EventArgs e) na C:\Users\Borsa\Documents\C#\CFB_acabdemia\F_Horarios.cs:linha 28
+   em System.Windows.Forms.Form.OnLoad(EventArgs e)
+   em System.Windows.Forms.Form.OnCreateControl()
+   em System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   em System.Windows.Forms.Control.CreateControl()
+   em System.Windows.Forms.Control.WmShowWindow(Message&amp;amp; m)
+   em System.Windows.Forms.Control.WndProc(Message&amp;amp; m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message&amp;amp; m)
+   em System.Windows.Forms.Form.WmShowWindow(Message&amp;amp; m)
+   em System.Windows.Forms.Form.WndProc(Message&amp;amp; m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message&amp;amp; m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message&amp;amp; m)
+   em System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+ClientConnectionId:3c7d0b36-6761-4f4b-b07e-e04e15836ed3
+Error Number:4145,State:1,Class:15</ExceptionString><DataItems><Data><Key>HelpLink.ProdName</Key><Value>Microsoft SQL Server</Value></Data><Data><Key>HelpLink.ProdVer</Key><Value>15.00.2000</Value></Data><Data><Key>HelpLink.EvtSrc</Key><Value>MSSQLServer</Value></Data><Data><Key>HelpLink.EvtID</Key><Value>4145</Value></Data><Data><Key>HelpLink.BaseHelpUrl</Key><Value>http://go.microsoft.com/fwlink</Value></Data><Data><Key>HelpLink.LinkId</Key><Value>20476</Value></Data></DataItems></Exception></TraceRecord>
+Ocorreu uma exceção sem tratamento do tipo "System.Data.SqlClient.SqlException" em CFB_acabdemia.exe
+Uma expressão de tipo não booleano especificada em um contexto no qual se espera uma condição, próximo a 'N_idhorario1'.
+
+O programa "[12864] CFB_acabdemia.exe" foi fechado com o código -1 (0xffffffff).
